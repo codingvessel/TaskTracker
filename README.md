@@ -14,7 +14,12 @@ this tool has probably some line-ending issues if used on other OS.
 ### How to run
 ```bash
 git clone https://github.com/codingvessel/TaskTracker.git
-cd TaskTracker\src
+
+build project
+
+cd TaskTracker/out/production/TaskTracker
+
+start a bash session via cmd or powershell
 
 TaskTrackerCLI add "Hello World
 ```
