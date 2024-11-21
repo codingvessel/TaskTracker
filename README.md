@@ -12,7 +12,7 @@ this tool has probably some line-ending issues if used on other OS.
 # TaskTrackerCLI
 
 ### How to run
-```
+```bash
 git clone https://github.com/codingvessel/TaskTracker.git
 cd TaskTracker\src
 
@@ -23,7 +23,7 @@ Here is some example usage of the TaskTrackerCLI:
 
 ### Adding a new task
 
-```java
+```bash
 TaskTrackerCLI add "Buy groceries"
 ```
 
