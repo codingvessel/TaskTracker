@@ -9,6 +9,8 @@ I programmed this TaskTracker-CLI in regard to the https://roadmap.sh/projects/t
 Due to a challenge constrain, this project uses handmade json serializing and is probably prone to error. I also only tested on windows and
 this tool has probably some line-ending issues if used on other OS.
 
+Make sure to have at least have java 22 installed on your machine and JAVA_HOME variable set.
+
 # TaskTrackerCLI
 
 ### How to run
