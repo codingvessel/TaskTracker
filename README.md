@@ -15,13 +15,13 @@ this tool has probably some line-ending issues if used on other OS.
 ```bash
 git clone https://github.com/codingvessel/TaskTracker.git
 
-build project
+start build.bat to compile javacode
 
-cd TaskTracker/out/production/TaskTracker
+cd builtTaskTrackerCLI
 
-start a bash session via cmd or powershell
+start a bash session via cmd or powershell if not already
 
-TaskTrackerCLI add "Hello World
+java TaskTrackerCLI add "Hello World
 ```
 
 Here is some example usage of the TaskTrackerCLI:
